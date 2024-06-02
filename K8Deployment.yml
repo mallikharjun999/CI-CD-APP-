@@ -10,7 +10,7 @@ spec:
   template:
     metadata:
       labels:
-        app:cicd-app
+        app: cicd-app
     spec:
       containers:
         - name: cicd-app
