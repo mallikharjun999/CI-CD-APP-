@@ -1,0 +1,7 @@
+#CREATED SERVICE ACCOUNT ON A NAME SPACE CALLED WEBAPPS
+
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: jenkins
+  namespace: webapps
