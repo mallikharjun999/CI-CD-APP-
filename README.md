@@ -22,8 +22,4 @@
 - Customizing schema using schema.sql file
 - Inserting initial data using data.sql file
 
-## How to Run
 
-1. Clone the repository
-2. Open the project in your IDE of choice
-3. Run the application
