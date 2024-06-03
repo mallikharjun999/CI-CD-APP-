@@ -22,4 +22,7 @@
 - Customizing schema using schema.sql file
 - Inserting initial data using data.sql file
 
+**MY JENKINS OVERVIEW**
+![Screenshot (74)](https://github.com/mallikharjun999/CICD--CRUD/assets/135102124/183c1574-1947-4b20-ae95-d1969ed805fb)
+
 
