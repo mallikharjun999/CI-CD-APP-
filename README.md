@@ -30,5 +30,10 @@
 
 ![Screenshot (78)](https://github.com/mallikharjun999/CICD--CRUD/assets/135102124/6f5f81b2-3be1-4b9f-97e0-1282ecf2793d)
 
+**FINAL LANDINF PAGE OF APPLICATION**
+
+![Screenshot (63)](https://github.com/mallikharjun999/CICD--CRUD/assets/135102124/cfcc1a84-6924-4e09-9b4d-1db235cc3457)
+
+
 
 
