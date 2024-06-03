@@ -34,6 +34,11 @@
 
 ![Screenshot (63)](https://github.com/mallikharjun999/CICD--CRUD/assets/135102124/cfcc1a84-6924-4e09-9b4d-1db235cc3457)
 
+**SONARQUBE-DASHBOARD**
+
+![Screenshot (65)](https://github.com/mallikharjun999/CICD--CRUD/assets/135102124/f2130fac-0c66-4e0a-abf5-3916c8bd6136)
+
+
 
 
 
